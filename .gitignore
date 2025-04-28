@@ -1,6 +1,6 @@
-node_modules
+node_modules/
 .env
-.DS_Store
-build
-dist
-.vscode
+/coverage
+npm-debug.log*
+yarn-error.log
+AppData/Local/
